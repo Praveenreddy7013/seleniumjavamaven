@@ -8,7 +8,7 @@ abstract class Animal{
 	}
 	
 	static void waik() {//static method
-		System.out.println("waiking");
+		System.out.println("waiking--");
 	}
 	
 	Animal()//constructor
